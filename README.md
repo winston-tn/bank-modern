@@ -1,4 +1,5 @@
 # Modern Bank Website  
+![modernBank](https://github.com/winston-tn/bank-modern/assets/143966236/2a8af7ab-6cf5-47b7-b16a-736573524716)
 
 ## Overview
 
